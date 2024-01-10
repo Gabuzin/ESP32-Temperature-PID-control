@@ -1,8 +1,8 @@
 // Main program
-/* Projeto Sistemas Embarcados 
-Titulo: Secadora de Filamento / 
-Autor: 
-Gabriel Ditomaso 
+/* 
+Projeto Sistemas Embarcados 
+Titulo: Secadora de Filamento / Filament dryer
+Autor: Gabriel Ditomaso 
 */
 
 //Bibliotecas
