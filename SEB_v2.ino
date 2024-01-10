@@ -1,9 +1,8 @@
+// Main program
 /* Projeto Sistemas Embarcados 
-Titulo: Secadora de Filamento
-Autores: 
+Titulo: Secadora de Filamento / 
+Autor: 
 Gabriel Ditomaso 
-André teixeira
-Larissa Lemos  
 */
 
 //Bibliotecas
